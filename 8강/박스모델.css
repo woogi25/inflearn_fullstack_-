@@ -1,0 +1,14 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+div {
+    border : 1px solid black;
+    padding: 10px;
+    margin: 50px;
+    max-width: 1000px;
+    min-width: 100px;
+    height: 500px;
+}
