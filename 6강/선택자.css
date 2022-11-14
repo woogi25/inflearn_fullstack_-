@@ -1,0 +1,30 @@
+h3 {
+    color:red;
+}
+
+.c1 {
+    color:blue;
+}
+
+#s1 {
+    color:green;
+    font-size: 35px;
+    
+}
+
+/* #s2 {
+    background-color: red;
+} */
+
+
+[href="https://google.com"] {
+    background-color: red;
+}
+
+[href="https://naver.com"] {
+    background-color: blue;
+}
+
+a {
+    background-color: aqua;
+}
