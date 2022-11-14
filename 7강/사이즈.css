@@ -1,0 +1,20 @@
+html {
+    font-size: 10px;
+}
+
+p {
+    font-size: 30px;
+    color : rgb(208, 130, 130);
+}
+
+.rems {
+    font-size: 5rem;
+}
+
+.ems li{
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 50%;
+}
