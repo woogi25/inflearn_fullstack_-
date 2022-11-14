@@ -1,0 +1,14 @@
+div {
+    border: 1px solid black;
+}
+
+span {
+    width:1000px;
+    border: 1px solid black;
+}
+
+p {
+    width:1000px;
+    display: inline-block;
+    border: 1px solid black;
+}
